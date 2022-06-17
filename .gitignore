@@ -1,1 +1,8 @@
-error.log
+*.log
+
+
+vendor/
+
+
+
+app/
